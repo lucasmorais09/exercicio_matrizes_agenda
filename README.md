@@ -4,7 +4,7 @@ Código que constrói agenda através de dados inseridos pelo usuário em uma ma
 # ALGORITMO DO EXERCÍCIO
 Início
 	
-  Declarar variaveis 
+  	Declarar variaveis 
 	matriz[][] = new int [10][5]
 	int = coluna = 0, linha = 0
  	Para linha de 1 até 10 faça 
